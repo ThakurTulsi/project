@@ -1,0 +1,6 @@
+/* Select the h1 element and apply styles to it */
+h1 {
+    font-size: 36px; /* Sets the font size to 36 pixels */
+    color: #333; /* Sets the text color to dark gray */
+    text-align: center; /* Centers the text horizontally */
+}
